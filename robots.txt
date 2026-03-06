@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aplusmm.com/sitemap.xml
