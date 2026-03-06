@@ -507,6 +507,13 @@ img {
     transition: var(--transition);
 }
 
+.review-card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
 .review-card:hover {
     transform: translateY(-4px);
     box-shadow: var(--shadow-lg);
